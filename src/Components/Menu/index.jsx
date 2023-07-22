@@ -30,9 +30,6 @@ export const Menu = () =>{
                 <li className="nav-item">
                     <a className="nav-link click-scroll" href="#section_4">Contato</a>
                 </li>
-                <li className="nav-item">
-                    <a className="nav-link click-scroll" href="#section_5">Entrar</a>
-                </li>
             </ul>
         </div>
     </nav>
