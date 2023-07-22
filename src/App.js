@@ -5,8 +5,6 @@ import { Home } from "./Pages/Home";
 import { Aluno } from "./Pages/Aluno";
 import { Professor } from './Pages/Professor';
 import { Mensagem } from './Pages/Mensagem';
-import { Login } from './Pages/Login'
-
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
@@ -18,7 +16,6 @@ function App() {
         <Route path="/aluno" element={<Aluno/>}/>
         <Route path="/professor" element={<Professor/>}/>
         <Route path="/mensagem" element={<Mensagem/>}/>
-        <Route path="/login" element={<Login/>}/>
       </Routes>
     </BrowserRouter>
   );
