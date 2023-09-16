@@ -66,8 +66,7 @@ export const Contato = () =>{
                                             Clique para saber mais informações 
                                         </a>
                                     </p>
-                                        <p className="copyright-text mb-0">Página feita para o trabalho de Introdução à Engenharia de Software - Ciência da Computação UFSJ <br/>
-                                        Grupo: Arthur, Franciele, Gabriel, João Antônio, Sidney</p>
+                                        <p className="copyright-text mb-0">Página feita para o trabalho de Introdução à Engenharia de Software - Ciência da Computação UFSJ</p>
                                     </div>
     
                                     <div className="col-lg-2 col-md-3 col-3 mt-lg-4 ms-auto">
